@@ -36,7 +36,7 @@ pipeline {
     }
   }
   environment {
-    MY_NAME = 'Mohamad'
+    MY_NAME = 'Mary'
     TEST_USER = credentials('test-user')
   }
   post {
